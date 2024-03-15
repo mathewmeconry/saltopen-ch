@@ -6,15 +6,12 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Anfahrt
+    url: /#anfahrt
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Zeitplan
+    url: /#zeitplan
     weight: 30
-  - name: Resources
+  - name: Ranglisten
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+    url: /#ranglisten

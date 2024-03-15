@@ -1,0 +1,18 @@
+.powered-by {
+    display: none;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 1vh;
+}
+
+table {
+    width: 80vw;
+    max-width: 65ch;
+    table-layout: fixed;
+}
+
+th, td {
+    text-align: left;
+}

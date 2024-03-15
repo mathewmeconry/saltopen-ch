@@ -5,26 +5,25 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+  mode: system
+  color: red
 
 # SEO
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    site_type: Competition
+    local_business_type: ""
+    org_name: "BKTV"
+    description: "Competition website for SaltOpen 2024 by BKTV in Mägenwil"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: "G-TS5ERQ8EY4"
+    baidu_tongji: ""
+    plausible: ""
+    fathom: ""
+    pirsch: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 header:
@@ -33,23 +32,16 @@ header:
     blox: "navbar"
     align: "center"
     fixed_to_top: true
-    logo:
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    show_search: true
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: ""
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "02 Jan 2006"
+  time_format: "15:04"
+  offset: "+01"
