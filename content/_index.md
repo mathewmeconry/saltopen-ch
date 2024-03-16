@@ -105,4 +105,10 @@ sections:
         <h2>MU 10</h2>
         <a target="_blank" href="/ranglisten/MU10 Einzel.pdf">Einzel</a>
         <a target="_blank" href="/ranglisten/MU10 Mannschaft.pdf">Mannschaft</a>
+        <h2>KU 13</h2>
+        <a target="_blank" href="/ranglisten/KU13 Einzel.pdf">Einzel</a>
+        <a target="_blank" href="/ranglisten/KU13 Mannschaft.pdf">Mannschaft</a>
+        <h2>MU 13</h2>
+        <a target="_blank" href="/ranglisten/MU13 Einzel.pdf">Einzel</a>
+        <a target="_blank" href="/ranglisten/MU13 Mannschaft.pdf">Mannschaft</a>
 ---
