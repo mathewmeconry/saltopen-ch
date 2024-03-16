@@ -98,5 +98,11 @@ sections:
     id: ranglisten
     content:
       title: Ranglisten
-      text: Es gibt noch keine Ranglisten
+      text: |
+        <h2>KU 10</h2>
+        <a target="_blank" href="/ranglisten/KU10 Einzel.pdf">Einzel</a>
+        <a target="_blank" href="/ranglisten/KU10 Mannschaft.pdf">Mannschaft</a>
+        <h2>MU 10</h2>
+        <a target="_blank" href="/ranglisten/MU10 Einzel.pdf">Einzel</a>
+        <a target="_blank" href="/ranglisten/MU10 Mannschaft.pdf">Mannschaft</a>
 ---
