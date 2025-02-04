@@ -29,13 +29,7 @@
       "section",
       "style",
       "svg",
-      "table",
-      "tbody",
-      "td",
-      "th",
-      "thead",
       "title",
-      "tr",
       "ul"
     ],
     "classes": [
@@ -173,12 +167,10 @@
       "nav-toggle",
       "page-bg",
       "ranglisten",
-      "samstag",
       "section-hero",
       "section-stats",
       "show-button",
       "site-header",
-      "sonntag",
       "sun",
       "top",
       "zeitplan"

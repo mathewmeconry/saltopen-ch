@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: SaltOpen 2024 # Website name
+title: SaltOpen 2025 # Website name
 baseURL: 'https://saltopen.ch/' # Website URL
 
 ############################
@@ -63,7 +63,7 @@ permalinks:
   categories: '/category/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects]
+  home: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
