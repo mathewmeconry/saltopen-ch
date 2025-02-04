@@ -45,9 +45,6 @@ sections:
         - statistic: "87"
           description: |
             Mannschaften
-        - statistic: "2"
-          description: |
-            Tage
     design:
       # Reduce spacing
       spacing:
