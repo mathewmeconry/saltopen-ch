@@ -106,6 +106,12 @@ sections:
         <h2>KU 10</h2>
         <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/KU10 Einzel.pdf">Einzel</a>
         <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/KU10 Mannschaft.pdf">Mannschaft</a>
+        <h2>MU 13</h2>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/MU13 Einzel.pdf">Einzel</a>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/MU13 Mannschaft.pdf">Mannschaft</a>
+        <h2>KU 13</h2>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/KU13 Einzel.pdf">Einzel</a>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/KU13 Mannschaft.pdf">Mannschaft</a>
         <br />
         <h3><a style="text-decoration: underline" href="/ranglisten-2024">Ranglisten 2024</a></h3>
 ---
