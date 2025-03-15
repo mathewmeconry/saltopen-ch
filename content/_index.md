@@ -103,6 +103,9 @@ sections:
         <h2>KU 10</h2>
         <a target="_blank" href="/ranglisten/2025/MU10 Einzel.pdf">Einzel</a>
         <a target="_blank" href="/ranglisten/2025/MU10 Mannschaft.pdf">Mannschaft</a>
+        <br />
+        <hr />
+        <br />
         <a href="/ranglisten-2024">Ranglisten 2024</a>
 
 #  - block: markdown
