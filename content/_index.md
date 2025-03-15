@@ -106,7 +106,7 @@ sections:
         <br />
         <hr />
         <br />
-        <a style="text-decoration: underline" href="/ranglisten-2024">Ranglisten 2024</a>
+        <h3><a style="text-decoration: underline" href="/ranglisten-2024">Ranglisten 2024</a></h3>
 
 #  - block: markdown
 #    id: ranglisten
