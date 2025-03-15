@@ -62,49 +62,46 @@ sections:
     id: zeitplan
     content:
       title: Zeitplan
-      text: Der Zeitplan wird in Kürze aufgeschalten.
+      text: |
+        ## Samstag
+        | Zeit | Kategorie | Was |
+        | --- | --- | --- |
+        | 06:45 | | Hallenöffnung |
+        | 07:30 | MU10 Abt. 1 | Wettkampfbeginn |
+        | 09:15 | MU10 Abt. 2 | Wettkampfbeginn |
+        | 11:10 | MU10 | Rangverlesen |
+        | 11:45 | KU10 | Wettkampfbeginn |
+        | 13:40 | KU10 | Rangverlesen |
+        | 14:00 | KU13 | Wettkampfbeginn |
+        | 15:50 | MU13 Abt. 1 | Wettkampfbeginn |
+        | 17:15 | MU13 Abt. 2 | Wettkampfbeginn |
+        | 18:45 | MU13 Abt. 3 | Wettkampfbeginn |
+        | 20:15 | MU13 / KU13 | Championat |
+        | 21:00 | MU13 / KU13 | Rangverlesen |
+
+        ## Sonntag
+        | Zeit | Kategorie | Was |
+        | --- | --- | --- |
+        | 07:15 | | Hallenöffnung |
+        | 08:00 | MU16 Abt. 1 | Einspringen |
+        | 08:15 | MU16 Abt. 1 | Wettkampfbeginn |
+        | 09:50 | MU16 Abt. 2 | Einspringen |
+        | 10:05 | MU16 Abt. 2 | Wettkampfbeginn |
+        | 11:20 | KU16 | Einspringen |
+        | 11:35 | KU16 | Wettkampfbeginn |
+        | 13:00 | KU16 / MU16 | Rangverlesen |
+        | 13:30 | D | Einspringen |
+        | 13:50 | D | Wettkampfbeginn |
+        | 15:10 | A | Einspringen |
+        | 15:30 | A | Wettkampfbeginn |
+        | 17:45 | A / D | Rangverlesen |
   - block: markdown
     id: ranglisten
     content:
       title: Ranglisten
       text: |
         <a href="/ranglisten-2024">Ranglisten 2024</a>
-#  - block: markdown
-#    id: zeitplan
-#    content:
-#      title: Zeitplan
-#      text: |
-#        ## Samstag
-#        | Zeit | Kategorie | Was |
-#        | --- | --- | --- |
-#        | 08:30 | | Hallenöffnung |
-#        | 09:00 | KU10 | Einspringen |
-#        | 09:20 | KU10 | Wettkampfbeginn |
-#        | 10:15 | MU10 Abt. 1 | Einspringen |
-#        | 10:25 | MU10 Abt. 1 | Wettkampfbeginn |
-#        | 11:45 | MU10 Abt. 2 | Einspringen |
-#        | 12:05 | MU10 Abt. 2 | Wettkampfbeginn |
-#        | 13:30 | KU10 / MU10 | Rangverlesen |
-#        | 14:15 | KU13 | Einspringen |
-#        | 14:35 | KU13 | Wettkampfbeginn |
-#        | 15:20 | MU13 Abt. 1 | Einspringen |
-#        | 15:35 | MU13 Abt. 1 | Wettkampfbeginn |
-#        | 16:40 | MU13 Abt. 2 | Einspringen |
-#        | 17:00 | MU13 Abt. 2 | Wettkampfbeginn |
-#        | 18:30 | KU13 / MU13 | Rangverlesen |
-#
-#        ## Sonntag
-#        | Zeit | Kategorie | Was |
-#        | --- | --- | --- |
-#        | 08:30 | | Hallenöffnung |
-#        | 09:15 | MU10 | Einspringen |
-#        | 09:35 | MU10 | Wettkampfbeginn |
-#        | 10:25 | KU16 / MU16 | Einspringen |
-#        | 10:45 | KU16 / MU16 | Wettkampfbeginn |
-#        | 12:30 | KU16 / MU16 | Rangverlesen |
-#        | 13:15 | D / A | Einspringen |
-#        | 13:45 | D / A | Wettkampfbeginn |
-#        | 16:00 | D / A | Rangverlesen |
+
 #  - block: markdown
 #    id: ranglisten
 #    content:
