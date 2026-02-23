@@ -9,7 +9,7 @@ sections:
   - block: markdown
     id: ranglisten
     content:
-      title: Ranglisten
+      title: Ranglisten 2024
       text: |
         <h2>KU 10</h2>
         <a target="_blank" style="text-decoration: underline" href="/ranglisten/2024/KU10 Einzel.pdf">Einzel</a>
