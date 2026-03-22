@@ -120,19 +120,32 @@ sections:
         <h2>KU 16</h2>
         <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/KU16 Einzel.pdf">Einzel</a>
         <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/KU16 Mannschaft.pdf">Mannschaft</a>
+        <h2>Damen</h2>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/D Einzel.pdf">Einzel</a>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/D Mannschaft.pdf">Mannschaft</a>
+        <h2>Aktive</h2>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/A Einzel.pdf">Einzel</a>
+        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2026/A Mannschaft.pdf">Mannschaft</a>
         <br />
         <h3><a style="text-decoration: underline" href="/ranglisten-2025">Ranglisten 2025</a></h3>
         <h3><a style="text-decoration: underline" href="/ranglisten-2024">Ranglisten 2024</a></h3>
+
+  - block: markdown
+    id: sponsors
+    content:
+      title: Sponsoren
+      text: |
+        <div style="display: flex; flex-basis: 2; flex-direction: column; align-content: center; justify-content: center; align-items: center;">
+          <img style="margin: 2rem; max-width: 40rem" src="/sponsors/ottos.png" />
+          <img style="margin: 2rem; max-width: 40rem" src="/sponsors/birchmeier.jpg" />
+          <img style="margin: 2rem; max-width: 40rem" src="/sponsors/coop.png" />
+          <img style="margin: 2rem; max-width: 40rem" src="/sponsors/migros.jpg" />
+          <img style="margin: 2rem; max-width: 40rem" src="/sponsors/raiffeisen.png" />
+        </div>
 ---
 
 
 <!--         
         
         
-        <h2>Damen</h2>
-        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/D Einzel.pdf">Einzel</a>
-        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/D Mannschaft.pdf">Mannschaft</a>
-        <h2>Aktive</h2>
-        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/A Einzel.pdf">Einzel</a>
-        <a target="_blank" style="text-decoration: underline" href="/ranglisten/2025/A Mannschaft.pdf">Mannschaft</a>
         <br /> -->
